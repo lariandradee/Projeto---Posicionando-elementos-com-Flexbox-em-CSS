@@ -25,5 +25,5 @@ Além de me aprofundar na linguagem de estilo CSS, tive a oportunidade de aprend
 [Santander Bootcamp Fullstack Developer](https://web.dio.me/track/santander-bootcamp-fullstack-developer)
 
 # Autor
-Larissa Andrade dos Santos
-[LinkedIn](https://www.linkedin.com/in/larissa-andrade-08169b246/)
+* Larissa Andrade dos Santos
+* [LinkedIn](https://www.linkedin.com/in/larissa-andrade-08169b246/)
