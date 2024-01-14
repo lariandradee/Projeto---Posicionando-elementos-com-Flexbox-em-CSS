@@ -22,7 +22,7 @@ Página de agência de turismo criada com Flexbox em CSS.
 Além de me aprofundar na linguagem de estilo CSS, tive a oportunidade de aprender a criar designs responsivos utilizando Flexbox em CSS.
 
 # Recursos úteis
-[Santander Bootcamp Fullstack Developer](https://web.dio.me/track/santander-bootcamp-fullstack-developer)
+* [Santander Bootcamp Fullstack Developer](https://web.dio.me/track/santander-bootcamp-fullstack-developer)
 
 # Autor
 * Larissa Andrade dos Santos
